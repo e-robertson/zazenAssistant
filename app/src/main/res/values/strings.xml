@@ -5,4 +5,5 @@
     values-round/strings.xml for round devices.
     -->
     <string name="begin_session">Begin Session</string>
+    <string name="session_timer">%d\nminutes</string>
 </resources>
